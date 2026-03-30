@@ -369,4 +369,3 @@ function Library:CreateWindow(Settings)
 end
 
 return Library
-Explain
